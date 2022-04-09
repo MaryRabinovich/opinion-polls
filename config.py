@@ -2,7 +2,7 @@ screenWidth = 800
 screenHeight = 800
 
 interYearVertical = 150
-intragroupVerticalMax = 10 # мещение вверх-вниз между членами группы
+intragroupVerticalMax = 10 # group members up-down max distance
 
 personWidth = 30
 
